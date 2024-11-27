@@ -1,0 +1,10 @@
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\bin\Debug\AntivirusApp.exe.config
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\bin\Debug\AntivirusApp.exe
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\bin\Debug\AntivirusApp.pdb
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\obj\Debug\AntivirusApp.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\obj\Debug\AntivirusApp.Form1.resources
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\obj\Debug\AntivirusApp.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\obj\Debug\AntivirusApp.csproj.GenerateResource.cache
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\obj\Debug\AntivirusApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\obj\Debug\AntivirusApp.exe
+C:\Users\Nicolas\Desktop\antivirus\AntivirusApp\AntivirusApp\obj\Debug\AntivirusApp.pdb
